@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>circle.png</file>
+        <file>ellipse.png</file>
+        <file>freehand.png</file>
+        <file>line.png</file>
+        <file>logo.png</file>
+        <file>rectangle.png</file>
+        <file>solid.png</file>
+        <file>arc.png</file>
+        <file>dashdot.png</file>
+        <file>dashdotdotdah.png</file>
+        <file>dotted.png</file>
+    </qresource>
+</RCC>
